@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# author: ide0x90
+
 import sys
 import re
 
